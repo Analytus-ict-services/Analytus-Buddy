@@ -1,0 +1,6 @@
+.env
+env
+chatbot
+__pycache__
+extras
+*.rar
